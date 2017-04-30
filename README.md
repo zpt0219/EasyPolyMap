@@ -1,4 +1,4 @@
-# EasyPolyMap
+# EasyPolyMap for Unity3d Editor
 
 This is a Low Poly Map auto creation tool based on the simple lines and points you draw. It is very easy to use and enables you to custom your own Low Poly Terrain within 2 minutes!
 
