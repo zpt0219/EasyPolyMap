@@ -1,4 +1,6 @@
-﻿using System.Collections;
+//A refined version of Delaunay Triangulation Algorithm
+
+using System.Collections;
 using System.Collections.Generic;
 
 namespace EasyPolyMap.Core
