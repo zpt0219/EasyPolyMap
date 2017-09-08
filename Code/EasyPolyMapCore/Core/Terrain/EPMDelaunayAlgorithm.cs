@@ -1,4 +1,7 @@
-//A refined version of Delaunay Triangulation Algorithm
+//This is a refined C# version of Delaunay Triangulation Algorithm, 
+//By default, the algorithm didn't split the points by region, but 
+//if you use bucket trick to refine the algorithm, the speed would 
+//be faster if you choose appropriate bucket number.
 
 using System.Collections;
 using System.Collections.Generic;
